@@ -1,7 +1,6 @@
-To run this project, you will need the following Python packages:
 
 pandas
 numpy
 scikit-learn
 streamlit
-pickle-mixin  # if needed for loading pickled files
+pickle-mixin  #if needed for loading pickled files
