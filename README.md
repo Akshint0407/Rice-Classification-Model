@@ -32,7 +32,7 @@ This repository contains a Machine Learning Model for classifying rice varieties
 
 - **Jupyter Notebook**:
   - `back_end.ipynb`: A comprehensive notebook that includes data cleaning, data visualization, preprocessing steps, and model training. This allows you to review the code and understand the entire process. You can also use it to retrain the model from scratch if desired.
-  - 
+    
 ## Usage
 
 1. Clone the repository:
