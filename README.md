@@ -39,13 +39,11 @@ This repository contains a Machine Learning Model for classifying rice varieties
 git clone https://github.com/Akshint0407/Rice-Classification-Model.git
 cd Rice-Classification-Model
 
-
 2. Install the required packages:
 pip install -r requirements.txt
 
 3. Run the Streamlit app on cmd:
 streamlit run app.py
-
 
 4. Input the values for the features and click the predict button to see the predicted class.
 
