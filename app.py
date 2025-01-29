@@ -27,7 +27,7 @@ def add_background(image_url):
     )
 
 # Replace with your image URL or path
-add_background("https://e1.pxfuel.com/desktop-wallpaper/99/166/desktop-wallpaper-black-and-red-abstract-high-definition-413.jpg")
+add_background("https://media.gettyimages.com/id/922610806/video/abstract-digital-background-loopable-4k.jpg?s=640x640&k=20&c=gMhuPvcRIjfk-NYH0y1jEVwqnmLm2jpFk4NDS1PalVU=")
 
 # Streamlit app title
 st.title("🌾 Rice Classification Model 🌾")
