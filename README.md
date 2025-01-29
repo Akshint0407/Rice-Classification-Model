@@ -3,13 +3,13 @@
 This repository contains a Machine Learning Model for classifying rice varieties based on various features. The model was trained using Support Vector Classification (SVC) algorithm and achieves an accuracy of 92%.
 
 ## Project Structure
-rice-classification-model/
-├── app.py                # Streamlit application
-├── model                 # Directory containing the saved models
-│   ├── grid_classifier.pkl  # Trained model
-│   └── scaled1.pkl          # Scaler for input features
-├── requirements.txt      # Required packages
-└── README.md             # Project documentation
+- **rice-classification-model**
+ - app.py                # Streamlit application
+ - model                 # Directory containing the saved models
+ - grid_classifier.pkl  # Trained model
+ - scaled1.pkl          # Scaler for input features
+ - requirements.txt      # Required packages
+ - README.md             # Project documentation
 
 
 ## Features
