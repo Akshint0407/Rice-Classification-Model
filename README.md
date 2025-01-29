@@ -47,6 +47,12 @@ streamlit run app.py
 
 4. Input the values for the features and click the predict button to see the predicted class.
 
+## Live Demo
+
+You can view the deployed application at the following link:
+
+[Visit the Rice Classification Model](https://rice-classification-model-r5ckfnelx9dkyaeowmbug4.streamlit.app/)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
