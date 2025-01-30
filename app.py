@@ -99,6 +99,7 @@ if st.session_state.show_instruction:
             <p>1. Input the required features in the fields provided.</p>
             <p>2. Click the "🔮 Predict" button to get the classification result.</p>
             <p>3. Check the prediction displayed below.</p>
+            <p>4. To activate and deactivate the popups, click the button itself and ignore the X button.</p>
             <button onclick="window.streamlitSessionState.set('show_instruction', false);" style="float:right; background-color: red; color: white; border: none; border-radius: 5px; padding: 5px 10px;">X</button>
         </div>
         """,
