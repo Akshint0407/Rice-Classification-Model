@@ -51,6 +51,7 @@ streamlit run app.py
 
 You can view the deployed application at the following link:
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)]([https://streamlit.io/](https://rice-classification-model-r5ckfnelx9dkyaeowmbug4.streamlit.app/))
 [![Visit the Rice Classification Model][(https://img.shields.io/badge/Streamlit-App-blue)](https://rice-classification-model-r5ckfnelx9dkyaeowmbug4.streamlit.app/)
 
 ## License
