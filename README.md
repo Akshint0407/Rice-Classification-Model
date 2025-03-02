@@ -1,4 +1,5 @@
 # Rice Classification Model
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://rice-classification-model-r5ckfnelx9dkyaeowmbug4.streamlit.app/)
 
 This repository contains a Machine Learning Model for classifying rice varieties based on various features. The model was trained using Support Vector Classification (SVC) algorithm and achieves an accuracy of 92%.
 
